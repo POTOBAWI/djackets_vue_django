@@ -1,0 +1,26 @@
+# Fichiers Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers de configuration sensibles
+.env
+.env.local
+.env.dev
+.env.prod
+
+# Fichiers de l'IDE
+.vscode/
+.idea/
+
+# Fichiers de logs et médias
+logs/
+media/
